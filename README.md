@@ -14,9 +14,9 @@ Add the following to your `plugins` specification in your Lazy.nvim configuratio
 return {
   -- ... other plugins ...
   {
-    "github.com/parz3val/auto-themer.nvim",
+    "parz3val/auto-themer.nvim",
     config = function()
-      require("auto_theme").setup({})
+      require("auto-themer").setup({})
     end,
   },
 }
