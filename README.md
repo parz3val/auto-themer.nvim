@@ -1,4 +1,4 @@
-# auto-theme.nvim
+# auto-themer.nvim
 
 A Neovim plugin that automatically sets the `background` option (light or dark) based on your system's theme.
 
